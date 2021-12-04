@@ -1,0 +1,12 @@
+This is the KBTU FIT student Almat Begaidarov's database project folder.
+Project Name: Package delivery company.
+
+"ER model.pdf" - the concept of Entity Relational model of my structure.
+
+"Relational model.png" - the Relational model of my database structure with logical connections.
+
+"project.sql" - the file with the code of creating the database's structure
+
+"project1.sql" - the file with the queries
+
+My database consists of such relations: company, orders, location, shipper, plane, truck, warehouse, customer, package, tracking, payment, shipment, credit_card, monthly, declaration
